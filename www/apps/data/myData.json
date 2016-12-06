@@ -1,0 +1,22 @@
+{
+	"movies":
+	[{"id":"1","name":"Captain America","rating":"7.5","price":"1000"},	
+	{"id":"2","name":"A man from UNCLE","rating":"6.5","price":"900"},	
+	{"id":"3","name":"Jack Reacher","rating":"5.5","price":"800"},	
+	{"id":"4","name":"Snoeden","rating":"4.5","price":"700"},	
+	{"id":"5","name":"Jason Bourne","rating":"3.5","price":"600"}],
+
+	"games":
+	[{"id":"1","name":"COD4","catagory":"action","size":"6GB"},
+	{"id":"2","name":"Sniper Ellite","catagory":"action","size":"14.4GB"},
+	{"id":"3","name":"NFS The Run","catagory":"Racing","size":"5.6GB"},
+	{"id":"4","name":"Prince of Persia","catagory":"strategy","size":"13GB"},
+	{"id":"5","name":"Stronghold Crusader","catagory":"strategy/War","size":"700MB"}],
+
+	"softwares":
+	[{"id":"1","name":"Sublime Text","catagory":"Editor","license":"MIT"},
+	{"id":"2","name":"Visual Studio","catagory":"Compiler(IDE)","license":"Microsoft"},
+	{"id":"3","name":"Slack","catagory":"Messenger","license":"Apache, MIT"},
+	{"id":"4","name":"Chrome","catagory":"Browser","license":"Google"},
+	{"id":"5","name":"IDM","catagory":"Downloader","license":"Sandy seeding"}]
+}
